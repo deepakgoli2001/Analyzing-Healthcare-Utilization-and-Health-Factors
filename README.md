@@ -17,20 +17,20 @@ To analyze illness trends, the `value_counts()` function was used to calculate t
 
 These visualizations provided insights into illness distribution and health insurance coverage, contributing to a better understanding of healthcare utilization.  
 
-#### **End Users:**  
+## **End Users:**  
 - Healthcare Professionals (Doctors, Nurses)  
 - Health Insurance Providers  
 - Public Health Researchers  
 - Healthcare Economists  
 - Policy Makers  
 
-#### **Technology Used:**  
+## **Technology Used:**  
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **IDE:** VS Code with Jupyter Notebook  
 - **Operating System:** Windows 10  
 
-#### **Results:**  
+## **Results:**  
 1. **Bar Chart:**  
    - The age group **27 years** has the lowest illness rate, while **72 years** has the highest.  
 
