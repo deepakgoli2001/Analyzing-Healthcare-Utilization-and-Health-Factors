@@ -1,13 +1,13 @@
 
-### **Project Overview: Analyzing Healthcare Utilization and Health Factors**  
+## **Project Overview: Analyzing Healthcare Utilization and Health Factors**  
 
-#### **Problem Statement:**  
+## **Problem Statement:**  
 This project aims to analyze healthcare utilization by:  
 1. Determining the average number of illnesses concerning age in years.  
 2. Visualizing the average percentage of members with private health insurance, categorized by gender.  
 3. Finding the total number of people based on their count of illnesses using a count plot.  
 
-#### **Project Description:**  
+## **Project Description:**  
 The project began with data preprocessing, where the dataset was imported into Jupyter Notebook for cleaning and visualization. No duplicate entries were found in the dataset. A new column was added to represent age in years for better clarity.  
 
 To analyze illness trends, the `value_counts()` function was used to calculate the frequency of illnesses. Data visualizations were then created using different plots:  
